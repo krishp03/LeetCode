@@ -1,4 +1,4 @@
-class IsPalindrome:
+class ValidPalindrome:
     def isPalindrome(self, s: str) -> bool:
         l = 0
         r = len(s) - 1
